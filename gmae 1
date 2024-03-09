@@ -1,3 +1,7 @@
+// Program: tow players evrey player pick a number from 1-10 score=player1 + player2 and when th score reach 100 player made score 100 wins!!!
+// Author:  yousif edris lotfu eris        20230480    s5;
+// Version: Number of program versionis 2.0
+// Date:    2/3/2024
 #include <iostream>
 using namespace std;
 int main() {
